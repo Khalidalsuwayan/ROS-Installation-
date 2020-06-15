@@ -15,7 +15,7 @@
      wget -c https://raw.githubusercontent.com/qboticslabs/ros_install_noetic/master/ros_install_noetic.sh && chmod +x ./ros_install_noetic.sh && ./ros_install_noetic.sh
 #### After few seconds will ask you "Enter your install (Default is 1)". Press 1 and wait until it's done.
 ## Step 5:
-#### To check that you have installed ROS Noetic write down. 
+#### To check that you have installed ROS Noetic write down on the Terminal. 
        rosversion -d
 #### If it shows.  _noetic_
 #### Then, well done you have downloaded ROS Noetic!
